@@ -31,8 +31,7 @@ public class Main {
         ListNode l1 = createListNode(new int[]{9});
         ListNode l2 = createListNode(new int[]{1,9,9,9,9,9,9,9,9,9});
 
-        //l1 =[9]
-        //l2 =[1,9,9,9,9,9,9,9,9,9]
+
         //s.addTwoNumbers(l2,l5);
         s.addTwoNumbers(l1,l2);
 
